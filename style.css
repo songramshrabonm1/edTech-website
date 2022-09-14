@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@500;600;700&family=Poppins:ital,wght@0,500;0,600;0,700;1,500&family=Roboto:wght@700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+@media screen and (max-width: 576px){
+    .btnn{
+        display: none;
+    }
+}
